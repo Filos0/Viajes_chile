@@ -1,0 +1,71 @@
+
+/*COMMITEAR diferentes estilos de navs
+nav {
+    background-color: rgba(0, 0, 0, 0.199);
+ }
+*/
+
+body {
+    background-color: #000!important;
+    color: #fff!important;
+}
+
+
+
+.carousel-item {
+    
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position:relative;
+}
+
+
+/*Quienes somos*/
+
+
+.favicons {
+    background-color: #17a3b8;
+    text-align: center;
+}
+
+#Quienes-somos i{
+    color: white;
+}
+
+#Quienes-somos div hr{
+    
+    background: #17a3b8;
+}
+
+/*Destacados*/
+
+#Destacados div hr{
+    
+    background: #17a3b8;
+}
+
+.foto-carta {
+    height: 150px;
+}
+
+.fondo-carta {
+    background-color: #17a3b8;
+}
+
+/*Contacto*/
+
+#Contacto div hr{
+    
+    background: #17a3b8;
+    margin-bottom: 20px;
+}
+
+/*Footer*/
+
+#Footer {
+    background-color: #17a3b8;
+}
+
+
